@@ -1,2 +1,3 @@
-# -
-PWM控制电机，测速并用UART传送至电脑端
+＃-
+vivado2018.2
+SEA-S7 Spartan7
